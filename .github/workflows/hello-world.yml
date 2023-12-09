@@ -1,0 +1,12 @@
+name: hello-world #workflow
+
+on: push
+  jobs: build #задание
+    #раннер
+    runs-on: ubuntu-latest
+    #шаги
+    steps:
+#блок кода
+      - uses: actions/checkout@v3
+      - run: make say-hello
+      -run: ls -la

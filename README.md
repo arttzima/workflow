@@ -1,0 +1,2 @@
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![example workflow](https://github.com/github/docs/actions/workflows/hello-world.yml/badge.svg)
